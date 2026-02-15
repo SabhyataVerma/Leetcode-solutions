@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -47,4 +48,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
