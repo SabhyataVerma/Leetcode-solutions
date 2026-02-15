@@ -1,6 +1,11 @@
+# LeetCode-Solutions
+This repository contains my structured solutions to LeetCode problems. I use this space to strengthen my understanding of Data Structures and Algorithms, improve problem-solving skills, and write optimized, clean implementations.
+
+My focus is on correctness, efficiency, and maintaining clear logic rather than just reaching the final answer.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+
 ## Array
 |  |
 | ------- |
