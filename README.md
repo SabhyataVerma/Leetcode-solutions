@@ -8,6 +8,7 @@
 | [0485-max-consecutive-ones](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
