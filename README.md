@@ -5,7 +5,6 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Array
 |  |
 | ------- |
