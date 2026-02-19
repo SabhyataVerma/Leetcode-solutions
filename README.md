@@ -16,6 +16,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,12 +25,14 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1486-xor-operation-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -67,4 +70,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0414-third-maximum-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
