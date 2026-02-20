@@ -8,6 +8,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -24,6 +25,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
