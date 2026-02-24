@@ -34,6 +34,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1486-xor-operation-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
