@@ -18,6 +18,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1394-find-lucky-integer-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1672-richest-customer-wealth](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -97,6 +98,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
 |  |
