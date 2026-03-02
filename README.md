@@ -110,6 +110,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -124,6 +125,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -131,6 +133,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Linked List
 |  |
