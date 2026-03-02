@@ -44,6 +44,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0009-palindrome-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
