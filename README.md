@@ -21,6 +21,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1822-sign-of-the-product-of-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
