@@ -89,6 +89,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
@@ -141,6 +142,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
