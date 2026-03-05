@@ -15,6 +15,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -38,6 +39,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0234-palindrome-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
@@ -110,6 +113,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
