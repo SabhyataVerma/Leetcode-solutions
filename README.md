@@ -60,6 +60,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0009-palindrome-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -79,6 +80,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
@@ -108,6 +110,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
 ## Sorting
@@ -177,6 +180,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0032-longest-valid-parentheses](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
