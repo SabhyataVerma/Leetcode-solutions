@@ -14,6 +14,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0046-permutations](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -115,6 +116,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
