@@ -11,6 +11,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0001-two-sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -204,4 +205,5 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
