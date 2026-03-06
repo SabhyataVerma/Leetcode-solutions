@@ -15,6 +15,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -66,6 +67,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0009-palindrome-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -206,4 +208,12 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0046-permutations) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
