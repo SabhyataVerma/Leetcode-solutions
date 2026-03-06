@@ -20,6 +20,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -211,6 +213,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
 |  |
