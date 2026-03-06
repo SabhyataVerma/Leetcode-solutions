@@ -13,6 +13,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -148,6 +149,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -219,6 +221,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Backtracking
 |  |
