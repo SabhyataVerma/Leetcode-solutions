@@ -16,6 +16,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0054-spiral-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -65,6 +66,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0001-two-sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -237,4 +239,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
