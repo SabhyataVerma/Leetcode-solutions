@@ -36,6 +36,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0485-max-consecutive-ones](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0665-non-decreasing-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
