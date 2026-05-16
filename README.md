@@ -59,6 +59,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -111,6 +112,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0657-robot-return-to-origin](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
