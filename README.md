@@ -75,6 +75,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -115,6 +116,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0032-longest-valid-parentheses](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
@@ -156,6 +158,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
