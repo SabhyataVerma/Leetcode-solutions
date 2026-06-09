@@ -55,6 +55,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2798-number-of-employees-who-met-the-target](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3689-maximum-total-subarray-value-i](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3689-maximum-total-subarray-value-i](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
 | ------- |
