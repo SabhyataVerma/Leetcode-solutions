@@ -291,5 +291,6 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
