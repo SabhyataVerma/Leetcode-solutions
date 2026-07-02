@@ -59,6 +59,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -117,6 +118,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -302,4 +304,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1661-average-time-of-process-per-machine](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
