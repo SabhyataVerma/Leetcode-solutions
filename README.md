@@ -76,6 +76,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0392-is-subsequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
