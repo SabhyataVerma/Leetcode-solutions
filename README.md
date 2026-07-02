@@ -71,6 +71,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0344-reverse-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -130,6 +131,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0242-valid-anagram](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
@@ -139,6 +141,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0042-trapping-rain-water](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
