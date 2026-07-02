@@ -49,6 +49,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -74,6 +75,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0392-is-subsequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2784-check-if-array-is-good](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -182,6 +185,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Matrix
