@@ -18,6 +18,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0046-permutations](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -193,6 +194,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0015-3sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0242-valid-anagram) |
