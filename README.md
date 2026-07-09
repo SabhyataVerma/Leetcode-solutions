@@ -21,6 +21,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0056-merge-intervals](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -71,6 +72,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -195,6 +197,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0015-3sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0242-valid-anagram) |
