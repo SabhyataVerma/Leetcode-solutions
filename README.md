@@ -10,6 +10,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0001-two-sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0039-combination-sum) |
@@ -65,6 +66,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0061-rotate-list) |
@@ -190,6 +192,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0242-valid-anagram) |
