@@ -43,6 +43,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0665-non-decreasing-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -102,6 +103,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -325,6 +327,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
