@@ -47,6 +47,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0566-reshape-the-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0665-non-decreasing-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -290,6 +291,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
