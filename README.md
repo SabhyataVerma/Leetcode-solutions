@@ -57,6 +57,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1672-richest-customer-wealth](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -174,6 +175,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
@@ -212,6 +214,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -292,6 +295,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
 | ------- |
@@ -330,10 +334,12 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
 | ------- |
