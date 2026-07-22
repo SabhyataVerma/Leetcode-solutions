@@ -18,6 +18,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0046-permutations](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -165,6 +166,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0032-longest-valid-parentheses](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -174,6 +176,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SabhyataVerma/Leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
